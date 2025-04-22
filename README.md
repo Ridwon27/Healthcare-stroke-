@@ -2,6 +2,8 @@
 
 ## Overview
 The stroke dataset comprises 4,072 patient records, each capturing a range of variables that influence stroke risk. It includes demographic information such as gender, age, marital status, and age group classification (youth or adult). Health-related factors captured in the dataset include hypertension, heart disease, diabetes, and obesity status. Lifestyle habits such as smoking behavior (categorized as never smoked, formerly smoked, currently smokes, or unknown) are also included, along with socioeconomic indicators like work type (private, government, self-employed, or never worked) and residence type (urban or rural).
+![Screenshot 2025-04-22 065258 stroke121](https://github.com/user-attachments/assets/2e3a64aa-a40e-462f-a041-f0648ab8bedb)
+
 
 ## Objective
 The goal of this project is to explore, analyze, and interpret patterns from a dataset containing information on 4,072 individuals, with a focus on stroke occurrence. This analysis aims to identify key demographic, health-related, lifestyle, and socioeconomic factors that may contribute to the risk of stroke.
